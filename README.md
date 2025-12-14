@@ -114,10 +114,10 @@ SmartVisionAI/
 <img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/feb97730-b862-4504-ac37-bc733fe21aba" />
 
 <img width="1920" height="1080" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/60abc70b-3d2c-4aee-aaf2-53dade77d7e3" />
-# Demo Images
+Demo Images
 
 <img width="1920" height="1080" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/5c03e4b4-eaa5-4eb8-942f-b3fae16db210" />
-# Detection
+Detection
 
 <img width="1253" height="825" alt="Screenshot 2025-12-14 at 08-17-06 SmartVision AI - Intelligent Multi-Class Object Recognition System" src="https://github.com/user-attachments/assets/158bdfca-c160-4968-a508-d3cd47878768" />
 
