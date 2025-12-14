@@ -110,6 +110,10 @@ SmartVisionAI/
 ├── yolo.ipynb
 └── smartvisionAI.ipynb(Downloading and training process of data)
 
+## Deployment
+- HuggingFace: https://huggingface.co/spaces/rahulkumar11062003/Smartvision-Ai
+
+
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/feb97730-b862-4504-ac37-bc733fe21aba" />
 
