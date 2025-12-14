@@ -637,6 +637,47 @@ if page == "ℹ️ About":
     with real-world deployment considerations.
     """)
 
-    # ---------------- FOOTER ----------------
+    # ---------------------------------------FOOTER --------------------------------------------------------------------------------------
     st.markdown("---")
     st.info("🚀 SmartVision AI — Bridging Deep Learning Research with Real-World Applications")
+
+
+#-------------------Footer Part in sidebar----------------------------------------------------------------------------------------------
+
+import streamlit as st
+
+st.sidebar.markdown("---")
+
+st.sidebar.markdown("### 📌 SmartVision AI")
+
+col1, col2, col3 = st.sidebar.columns(3)
+
+with col1:
+    st.sidebar.markdown(
+        "[🌐 GitHub](https://github.com/rahul-tech-kumar/SmartVision-AI---Intelligent-Multi-Class-Object-Recognition-System)",
+        unsafe_allow_html=True
+    )
+
+with col2:
+    st.sidebar.markdown(
+        "[💼 LinkedIn](https://www.linkedin.com/in/rahul-kumar-173546228/)",
+        unsafe_allow_html=True
+    )
+
+with col3:
+    st.sidebar.markdown(
+        "[✉️ Email](mailto:rahulkumar11062003@gmail.com)",
+        unsafe_allow_html=True
+    )
+
+st.sidebar.markdown("---")
+
+st.sidebar.markdown(
+    """
+    <div style="text-align:center; font-size:12px; color:gray;">
+        🚀 Built with Streamlit & PyTorch<br>
+        © 2025 SmartVision AI
+    </div>
+    """,
+    unsafe_allow_html=True
+)
